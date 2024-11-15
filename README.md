@@ -40,4 +40,4 @@ But then things took a rough turn. From Q1 to Q3 2018, they lost 39% of their us
 Currently, they're sitting at 12,645 total active  users, which is down by 8,122 users from their peak. The quarter-over-quarter change is showing that -39% decline, which is pretty significant.
 
 What's particularly interesting is the pattern in the bar chart showing monthly active users. You can see those light blue bars climbing steadily through 2017, reaching a peak, and then gradually declining through 2018. The darker blue bars at the end represent repeat users, which seems to be holding somewhat steady despite the overall decline.
-<img src="" width="800" />
+<img src="https://github.com/Chungshek2011/JDE-Project---Brazilian-E-Commerce-/blob/main/figure/user%20grow%20.png" width="800" />
