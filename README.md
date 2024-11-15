@@ -26,4 +26,8 @@ Data Segmentation: Analyze sales data around key dates like Black Friday, Christ
 
 ### General Overview 
 For information, we have count total order haves 99,441 orders and it have 96,096 customers using olist in this 3 years.
-<img src="" width="700" />
+<img src="https://github.com/Chungshek2011/JDE-Project---Brazilian-E-Commerce-/blob/main/figure/overview%2001.png" width="800" />
+
+#### Speical Day 
+The orders show a consistent rise throughout the years, however, a sharp increase in the 47th week in 2017 can be attributed to Black Friday, which coincides with the Nov 24th date and falls within that week. Customers are expected to have taken advantage of the discount sales which showed that orders were more than double the previous week and other weeks during 2017 and 19th week in 2018 is mother's day in barzil  mother's day is very important to celebrate beside that 31st  in 2018 is Independence day  its only barzil public holiday . 
+<img src="" width="800" />
