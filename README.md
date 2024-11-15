@@ -44,3 +44,7 @@ What's particularly interesting is the pattern in the bar chart showing monthly 
 
 ### Dashboard By (Power Bi)
 Link: [Dashboard demo](https://drive.google.com/drive/folders/13KByeZ9xO3Si7nDLN67m3iBhCf10MITf?usp=drive_link)
+
+<img src="https://github.com/Chungshek2011/JDE-Project---Brazilian-E-Commerce-/blob/main/figure/Dashboard%20overview%20.png" width="800"/>
+
+@ This project references  only , publish by Chung Shek 
