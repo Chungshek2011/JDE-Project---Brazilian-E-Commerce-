@@ -14,4 +14,14 @@ This is a well known dataset available from [Kaggle](https://www.kaggle.com/olis
 
 The full dataset is divided in 8 files: orders, *payments, reviews, items, products, sellers, customers, geolocation*. Descriptions of the columns can be found on the the Kaggle link above, or on the main script.
 
-<img src="" width="700" />
+<img src="https://github.com/Chungshek2011/JDE-Project---Brazilian-E-Commerce-/blob/main/figure/dataset%20furgure.png" width="700" />
+
+### KPI
+1. Special Date Demand Analysis
+Data Segmentation: Analyze sales data around key dates like Black Friday, Christmas, etc.
+2. Intention to Pay in Installments
+3. Lead Customers (Offline, Online, Industry)
+4. Delivery Bottleneck Identification
+5. Regional Purchasing Power Analysis
+
+
