@@ -24,4 +24,6 @@ Data Segmentation: Analyze sales data around key dates like Black Friday, Christ
 4. Delivery Bottleneck Identification
 5. Regional Purchasing Power Analysis
 
-
+### General Overview 
+For information, we have count total order haves 99,441 orders and it have 96,096 customers using olist in this 3 years.
+<img src="" width="700" />
