@@ -41,3 +41,6 @@ Currently, they're sitting at 12,645 total active  users, which is down by 8,122
 
 What's particularly interesting is the pattern in the bar chart showing monthly active users. You can see those light blue bars climbing steadily through 2017, reaching a peak, and then gradually declining through 2018. The darker blue bars at the end represent repeat users, which seems to be holding somewhat steady despite the overall decline.
 <img src="https://github.com/Chungshek2011/JDE-Project---Brazilian-E-Commerce-/blob/main/figure/user%20grow%20.png" width="800" />
+
+### Dashboard By (Power Bi)
+Link: [Dashboard demo](https://drive.google.com/drive/folders/13KByeZ9xO3Si7nDLN67m3iBhCf10MITf?usp=drive_link)
